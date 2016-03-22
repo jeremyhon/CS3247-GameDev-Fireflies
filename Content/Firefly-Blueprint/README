@@ -1,4 +1,0 @@
-To have the emissive effects, be sure to adjust the following in Project Settings:
-
-1. Project Settings -> Rending -> Bloom : check it.
-2. Project Settings -> Rending -> Mobile HDR : check it.
